@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blackjack 21 (Project 1)",
+    "live": "https://app.herokuapp.com/whatever",
+    "git": "https://github.com/jbg2023/Blackjack",
+    "image": "https://github.com/jbg2023/Blackjack/blob/main/screenshot.png"
+  },
+  {
+    "name": "Personal Dashboard (Project 2)",
+    "live": "https://mypersonaldashboard.netlify.app",
+    "git": "https://github.com/jbg2023/personal_dashboard",
+    "image": "https://github.com/jbg2023/personal_dashboard/blob/main/personal_dashboard/Dashboard_Screenshot.png"
+  }
+]
